@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Plume-org/Plume/main/assets/icons/trwnh/feather/plumeFeather64.png" alt="Plume's logo">
+  <a href="https://github.com/Plume-org/Plume/actions"><img src="https://raw.githubusercontent.com/Plume-org/Plume/main/assets/icons/trwnh/feather/plumeFeather64.png" alt="Plume's logo"></a>
   Plume
 </h1>
 <p align="center">
